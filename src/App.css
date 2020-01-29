@@ -1,0 +1,18 @@
+.asignatura{
+  border: 2px solid #000;
+  margin: 0 15px 25px;
+  padding: 5px;
+  text-align: center;
+}
+.profe{
+  border: 2px solid #000;
+  background-color: blanchedalmond;
+  margin: 0 15px 25px;
+  padding: 5px
+}
+.alumnos{
+  border: 2px solid #000;
+  background-color: rgb(255, 255, 198);
+  margin: 0 15px 25px;
+  padding: 5px;
+}
